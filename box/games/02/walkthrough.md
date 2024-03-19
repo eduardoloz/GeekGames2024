@@ -17,6 +17,4 @@ On the eve of his disappearance, Professor Quack Quack was betrayed by someone c
 
 Applying the Caesar cipher, he encrypted a message to help those who were to find out, revealing information on his demise. With his last breath, he rushed to the location, deeply hurt by the betrayal of those closest to him.
 
-
-
 TRRX_TNZRF{ZL_URNQ_UHEGF}
