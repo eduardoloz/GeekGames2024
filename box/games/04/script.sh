@@ -1,1 +1,0 @@
-echo "GEEK_GAMES{RSA_ENCRYPTION_IS_FUN}" > ./.flag.txt
